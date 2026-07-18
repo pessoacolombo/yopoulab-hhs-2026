@@ -4,7 +4,7 @@ Interactive report of the **YopouLab exploratory household survey** conducted in
 April–May 2026 in the Millionnaire-Extension area of Yopougon, Abidjan
 (Côte d'Ivoire). Published with GitHub Pages.
 
-**Live site:** `https://<username>.github.io/yopoulab-report/`
+**Live site:** `https://pessoacolombo.github.io/yopoulab-hhs-2026/report/index.html`
 
 ## Pages
 
