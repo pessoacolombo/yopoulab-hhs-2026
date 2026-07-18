@@ -36,9 +36,9 @@ shown on maps are generalised survey areas, not respondent addresses.
 
 The report is authored in Quarto (Python / Plotly) and
 rendered locally from an aggregation pipeline that is not part of this
-repository. The files here (`index.html`, `bivariate.html`,
+repository for data privacy reasons. The files here (`index.html`, `bivariate.html`,
 `profiles_summary.html`, `site_libs/`, `custom.css`, `search.json`) are the
-rendered output — to update the site, re-render locally and replace them.
+rendered output.
 
 ## License & citation
 
