@@ -1,3 +1,4 @@
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-yellow.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 # Yopougon Urban Lab (YopouLab) — 2026 Household Survey Report
 
 Interactive report of the **YopouLab exploratory household survey** conducted in
