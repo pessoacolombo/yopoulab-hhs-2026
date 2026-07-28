@@ -47,4 +47,4 @@ Results are preliminary and descriptive; please contact the YopouLab
 [consortium coordinator](https://www.swisstph.ch/en/staff/profile/people/vitor-pessoa-colombo) 
 before citing or reusing any figures.
 
-© YopouLab consortium / Swiss TPH & CSRS
+**YopouLab consortium** / Centre Suisse de Recherches Scientifiques en Côte d'Ivoire & Swiss Tropical Public Health Institute
